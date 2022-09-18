@@ -13,16 +13,16 @@ body {
     text-transform: uppercase;
     background-color: pink;
   }
-  h5{
+  h4{
     text-transform: uppercase;
-    color: rgb(12, 99, 133);
+    color: rgb(9, 72, 97);
     font-family: cursive;
     background-color: lightblue;
   }
   
   .image_from{
     font-size: 85%;
-    color: rgb(12, 99, 133);
+    color: rgb(9, 72, 97);
     font-family: monospace;
     letter-spacing: -0.1px;
   }
