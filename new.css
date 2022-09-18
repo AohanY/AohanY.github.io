@@ -1,0 +1,32 @@
+body {
+    background: white;
+  }
+  p {
+    color: black;
+  }
+  
+  h1 {
+    font-weight: bold;
+  }
+  h3{
+    text-transform: uppercase;
+  }
+  h5{
+    text-transform: uppercase;
+    color: darkgray;
+    font-family: cursive;
+  }
+  
+  .passive{
+    background-color: darkturquoise
+  }
+  .r{
+    background-color: darkorange
+  }
+  .image_from{
+    font-size: 8%;
+    color: #919191;
+    font-family: monospace;
+    letter-spacing: -0.1px;
+  }
+  
