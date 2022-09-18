@@ -14,13 +14,13 @@ body {
   }
   h5{
     text-transform: uppercase;
-    color: darkgray;
+    color: rgb(13, 119, 161);
     font-family: cursive;
   }
   
   .image_from{
     font-size: 8%;
-    color: #919191;
+    color: rgb(13, 119, 161);
     font-family: monospace;
     letter-spacing: -0.1px;
   }
