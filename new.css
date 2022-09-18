@@ -1,5 +1,6 @@
 body {
     background: white;
+    
   }
   p {
     color: black;
@@ -17,16 +18,22 @@ body {
     font-family: cursive;
   }
   
-  .passive{
-    background-color: darkturquoise
-  }
-  .r{
-    background-color: darkorange
-  }
   .image_from{
     font-size: 8%;
     color: #919191;
     font-family: monospace;
     letter-spacing: -0.1px;
   }
-  
+  .header{
+    display: grid;
+    column-gap: 50px;
+    row-gap: 50px;    
+    
+  }
+  .content{
+    display: grid;
+    column-gap: 50px;
+    row-gap: 50px;
+    grid-template-columns: repeat(3, 1fr);
+    
+  }
